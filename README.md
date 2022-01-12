@@ -1,6 +1,6 @@
 # NUS-EE5907-Project1
 Project1 for NUS Pattern Recognition course, SPAM.   
-Each Matlab files includes one Machine Learning method, consisting of Beta-binomial Naive Bayes, Gaussian Naive Bayes, Logistic regression, K-Nearest Neighbors for classification and discrimination.  
+Each Matlab files includes one Machine Learning method, consisting of Beta-binomial Naive Bayes, Gaussian Naive Bayes, Logistic regression, K-Nearest Neighbors.  
 The detail of each requirement is shown in EE5907_EE5027_SPAM.pdf.The raw data of spam is in spamData.mat.  
 
 Original README  
