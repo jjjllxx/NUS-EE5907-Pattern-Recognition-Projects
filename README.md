@@ -1,7 +1,7 @@
 # NUS-EE5907-Project1&2
 NUS Pattern Recognition course: project1 for SPAM, project2 for face recognition.
 
-Project1
+## Project1: Spam  
 Each Matlab files includes one Machine Learning method, consisting of Beta-binomial Naive Bayes, Gaussian Naive Bayes, Logistic regression, K-Nearest Neighbors.  
 The detail of each requirement is shown in EE5907_EE5027_SPAM.pdf.The raw data of spam is in spamData.mat.  
 
@@ -19,11 +19,11 @@ Original README
 %Jin Lexuan 23.Sept.2021
 
 
-Project2  
+## Project2: Face Recognition   
 
 Includes PCA,LDA,SVM,GMM,CNN algorithm.
 
-Original 
+Original README  
 % This is the second assignment of EE5907. 
 
 % For each part, they are seperated in folders with name of the content.And PIE is the original face image and my selfie.  
