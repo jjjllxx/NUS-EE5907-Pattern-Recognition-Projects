@@ -1,5 +1,5 @@
 # NUS-EE5907-Pattern-Recognition-Projects
-NUS Pattern Recognition course: project1 for SPAM, project2 for face recognition.
+AY21/22 Semester1. NUS Pattern Recognition course(EE5907): project1 for SPAM, project2 for face recognition.
 
 ## Project1: Spam  
 Each Matlab files includes one Machine Learning method, consisting of Beta-binomial Naive Bayes, Gaussian Naive Bayes, Logistic regression, K-Nearest Neighbors. The detail of each requirement is shown in EE5907_EE5027_SPAM.pdf.The raw data of spam is in spamData.mat.  
@@ -9,8 +9,9 @@ This is EE5907 Programming Assignment.
 1. Assignment1 to Assignment4 indicates Beta-binomial Naive Bayes,Gaussian Naive Bayes, Logistic regression and K-Nearest Neighbors respectively.    
 2. Before running any code, spamData.mat should be placed in the same folder with them.    
 3. The results of Assignment1,3,4 also includes a picture of training and testing error rate, which are also included in this folder,named by their assignment. 
-4. Assignment4 may take about 1min to run, thank you for your time and patience.   
-Jin Lexuan 23.Sept.2021
+4. Assignment4 may take about 1min to run, thank you for your time and patience.
+
+23.Sept.2021
 
 ## Beta-binomial Naive Bayes
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/60777462/203875131-801cfe0f-86e0-4100-8bcb-67bbbdb2422b.png">
@@ -23,8 +24,6 @@ In Gaussian Naive Bayes question, ML estimation of mean and variance of training
 
 ## K-Nearest Neighbors 
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/60777462/203875192-8a8d56a4-bf5c-42ab-b9d6-9c1fba35565c.png">
-
-
 
 ## Project2: Face Recognition   
 Includes PCA,LDA,SVM,GMM,CNN algorithm.
